@@ -1,0 +1,30 @@
+.panelBody {
+  padding: 15px;
+  border-radius: 15px;
+  background-color: grey;
+  width: 400px !important;
+}
+.rowPad {
+  padding: 3px;
+}
+
+.inputCss {
+  font-size: 13pt !important;
+  text-align: right;
+}
+.resultCss {
+  font-size: 15pt !important;
+}
+
+.pad {
+  padding: 40px;
+}
+
+header {
+  color: black;
+  text-align: left;
+  background-color: silver;
+}
+h1 {
+  font-style: italic;
+}
